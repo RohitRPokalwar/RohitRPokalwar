@@ -3,11 +3,10 @@
 <h3 align="center">I am Learning C++ and DSA</h3>
 - 👀 I’m interested in <b>Coding</b>
 <br>
-- 🌱 I’m currently learning C++ and DSA
+- 🌱 I’m currently learning <b>C++ and DSA</b>
 <br>
-- 💞️ I’m looking to collaborate on
-<br>
-- 📫 How to reach me rohitpokalwar95@gmail.com
+- 📫 How to reach me
+<b>rohitpokalwar95@gmail.com</b>
 <br>
 - ⚡ Fun fact: I want to learn New Things
 
