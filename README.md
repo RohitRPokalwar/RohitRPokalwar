@@ -1,5 +1,5 @@
 <H1>- 👋 Hi, I’m @RohitRPokalwar> </H1>
-- 👀 I’m interested in <big>Coding</big>
+- 👀 I’m interested in <b>Coding</b>
 <br>
 - 🌱 I’m currently learning C++ and DSA
 - 💞️ I’m looking to collaborate on 
