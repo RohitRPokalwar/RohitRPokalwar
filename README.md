@@ -70,10 +70,17 @@ I’m a **B.Tech Computer Engineering student (2024–2028)** at **PICT, Pune**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitRPokalwar&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRPokalwar&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
-</p>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=RohitRPokalwar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <br/><br/>
 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitRPokalwar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRPokalwar&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🔗 Connect With Me
