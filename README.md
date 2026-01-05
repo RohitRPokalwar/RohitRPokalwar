@@ -31,7 +31,7 @@ I’m a **B.Tech Computer Engineering student (2024–2028)** at **PICT, Pune**,
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Projects
 
 ### 🔹 1. FitFlow – Gym Slot Booking System
 **Tech:** React, Firebase, Node.js, Serverless Functions  
