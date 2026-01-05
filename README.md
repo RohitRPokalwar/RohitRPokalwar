@@ -1,56 +1,92 @@
-<h1 align="center">Hi 👋, I'm Rohit Rajendra Pokalwar</h1>
-<h3 align="center">💻 B.Tech Student | 🧠 C++ & DSA Learner | 🌱 Open Source Explorer | 🔥 GSSoC Enthusiast</h3>
----
-
-### 👨‍🎓 About Me
-
-- 🎓 I’m a B.Tech Computer Engineering student at PICT, Pune (Batch 2024–2028)
-- 🌱 Currently diving deep into **C++**, **Data Structures**, and **Competitive Programming**
-- 🔭 Actively exploring **open-source projects** and preparing for **GSSoC 2025**
-- 💬 Ask me about **DSA**, **Git & GitHub**, or anything tech-related!
-- 📫 How to reach me: [**rohitpokalwar95@gmail.com**](mailto:rohitpokalwar95@gmail.com)
-- ⚡ Fun fact: I’m obsessed with learning new things and sharing what I learn!
+<h1 align="center">Hi, I'm Rohit Rajendra Pokalwar 👋</h1>
+<h3 align="center">Computer Engineering Undergraduate @ PICT | DSA • Backend • Systems</h3>
 
 ---
 
-### 📱 Connect with me:
+## 👋 About Me
 
-<p align="left">
-  <a href="mailto:rohitpokalwar95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/rohitrpokalwar" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+I’m a **B.Tech Computer Engineering student (2024–2028)** at **PICT, Pune**, focused on building strong foundations in **Data Structures, Algorithms, and Core Computer Science**.
 
-### 💻 Languages and Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-</p>
+- 💻 Primary language: **C++**
+- 🧠 Strong interest in **problem-solving, backend systems, and real-world applications**
+- 🌱 Exploring **open source** and preparing for **GSSoC 2025**
+- 📚 Consistently practicing **DSA & CS fundamentals**
+- 📫 Reach me at **rohitpokalwar95@gmail.com**
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 Technical Skills
+
+**Languages**
+- C, C++
+
+**Core Computer Science**
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Time & Space Complexity Analysis  
+
+**Development & Tools**
+- Git, GitHub  
+- VS Code  
+
+---
+
+## 🚀 Top Projects
+
+### 🔹 1. FitFlow – Gym Slot Booking System
+**Tech:** React, Firebase, Node.js, Serverless Functions  
+
+- Built a **full-stack gym slot booking platform** with authentication and role-based access (User/Admin)
+- Implemented **slot creation, booking, cancellation**, and admin-controlled slot management
+- Added **email notifications** for booking confirmations using a serverless backend
+- Focused on **data consistency**, preventing double bookings, and secure access rules
+- Designed for **real-world college-scale usage** with clean UI and modular architecture
+
+📌 *Demonstrates full-stack development, backend logic, and real-world system design*
+
+---
+
+### 🔹 2. Fake Transaction Analyzer
+**Tech:** Python, Machine Learning, Graph Analysis  
+
+- Designed a system to **detect anomalous and potentially fraudulent transactions**
+- Applied **Isolation Forest (unsupervised learning)** to identify abnormal transaction patterns without labeled data
+- Used **graph-based analysis** to trace suspicious money flows and circular transaction loops
+- Emphasized **explainability**, providing clear reasons for why a transaction was flagged
+- Modeled the system around **real banking fraud detection workflows**
+
+📌 *Shows applied machine learning, analytical thinking, and financial systems awareness*
+
+---
+
+## 🌱 Currently Working On
+- Strengthening **DSA for technical interviews**
+- Improving **backend & system design fundamentals**
+- Contributing to **open-source projects**
+- Preparing for **internship opportunities**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitRPokalwar&show_icons=true&theme=tokyonight" alt="Rohit's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRPokalwar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitRPokalwar&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRPokalwar&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<!---
-RohitRPokalwar/RohitRPokalwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:rohitpokalwar95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional-blue?style=flat&logo=gmail">
+  </a>
+  <a href="https://instagram.com/rohitrpokalwar">
+    <img src="https://img.shields.io/badge/Instagram-Connect-informational?style=flat&logo=instagram">
+  </a>
+</p>
+
+---
+
+> _Focused on fundamentals. Consistent in effort. Long-term builder._
